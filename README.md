@@ -1,5 +1,5 @@
 -  Hi, I’m @dudinha-web!
--  I’m interested in tec.
+-  I’m interested in tech.
 -  I’m currently in college for software engineering.
 -  I’m looking to learn more about tec and this universe.
 -  Fun fact: From Brazil.
