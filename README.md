@@ -1,10 +1,24 @@
--  Hi, I’m @dudinha-web!
--  I’m interested in tech.
--  I’m currently in college for software engineering.
--  I’m looking to learn more about tec and this universe.
--  Fun fact: From Brazil.
+# Hi, I'm Duda 
+  
+<img src="https://img.icons8.com/?size=100&id=20308&format=png&color=000000" width="14" alt="Computer Icon"/> Software Engineering Student | <img src="https://img.icons8.com/?size=100&id=53372&format=png&color=000000" width="14" alt="Globe Icon"/> Web Developer | <img src="https://img.icons8.com/?size=100&id=2799&format=png&color=000000" width="14" alt="Paint Brush Icon"/> Design Enthusiast
 
-<!---
-dudinha-web/dudinha-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **Software Engineering student** passionate about **technology, design, and clean interfaces**.  
+I build **modern websites and online stores**, helping clients turn ideas into practical and visually appealing digital solutions.
+
+Currently, I'm focused on improving my **programming logic** and expanding my skills in **JavaScript and web technologies** 
+
+---
+
+## Technologies & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,figma,git,github,linux,windows,mysql,notion,ps,py,vscode" />
+  </a>
+</p>
+
+---
+
+## Let's Connect
+- Portfolio: *coming soon*  
+- Email: *[madueduarda.tec@gmail.com -> send me an e-mail!](mailto:madueduarda.tec@gmail.com)*  
+- LinkedIn: 
