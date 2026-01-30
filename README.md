@@ -21,4 +21,4 @@ Currently, I'm focused on improving my **programming logic** and expanding my sk
 ## Let's Connect
 - Portfolio: *coming soon*  
 - Email: *[madueduarda.tec@gmail.com -> send me an e-mail!](mailto:madueduarda.tec@gmail.com)*  
-- LinkedIn: 
+- LinkedIn: *[Maria Eduarda - click here!](https://www.linkedin.com/in/maria-eduarda-sacavem-de-souza-b4a43b315/)*
